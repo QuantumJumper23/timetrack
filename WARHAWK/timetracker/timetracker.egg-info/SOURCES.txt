@@ -1,0 +1,10 @@
+setup.py
+timetracker/__init__.py
+timetracker/cli.py
+timetracker/times.py
+timetracker.egg-info/PKG-INFO
+timetracker.egg-info/SOURCES.txt
+timetracker.egg-info/dependency_links.txt
+timetracker.egg-info/entry_points.txt
+timetracker.egg-info/requires.txt
+timetracker.egg-info/top_level.txt
